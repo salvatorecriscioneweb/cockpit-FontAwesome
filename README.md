@@ -1,5 +1,5 @@
 # cockpit-FontAwesome
-Extend Cockpit by adding Font Awesome CDN and Support on Backend View
+Addon for Cockpit to add Font Awesome CDN and Support on Admin View
 
 
 ## Copyright and license
